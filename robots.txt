@@ -10,5 +10,4 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: https://taozgt.xyz/sitemap.xml
-Sitemap: https://taozgt.xyz/baidusitemap.xml
+Sitemap: https://blog.taozgt.tk/baidusitemap.xml
